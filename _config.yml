@@ -69,8 +69,8 @@ content:
           Ministry of 
 
           National Defense
-        sub_title: Vulnerability Engineer
-        caption: September 2024 - present
+        sub_title: Vulnerability Engineer <br>(as Capt, ROK Army)
+        caption: 2024.09 - present
         #link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
@@ -78,25 +78,35 @@ content:
           Description of role
               **Technology Stack**: <mark>Node.js</mark>  <mark>Express.js</mark>  <mark>React.js</mark>  <mark>GitHub</mark>  <mark>SourceTree</mark>  <mark>Stripe Payment API</mark>  <mark>MongoDB</mark>          
       - layout: left
-        title: |
-          R.O.K. 
-
-          Cyber Operations Command
-        sub_title: Threat Hunting Engineer
-        caption: June 2020 - August 2024
+        title: R.O.K. <br>Cyber Operations Command
+        sub_title: Threat Hunting Engineer <br>(as Capt/1st Lt, ROK Army)
+        caption: 2020.09 - 2024.08
         #link: Link to company (optional)
-        # quote: >
-        #   Short description of the company (optional)
+        quote: >
+          Unit under the direct control of the MND for conducting cyber operations in cyberspace
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Designed and implemented 25 [SPL](https://docs.splunk.com/Splexicon:SPL)-based threat hunting scenarios and 10 interactive dashboards to visiualize detection results and enhance situational awareness.
+          - Successfully identified and mitigated 20+ security breaches in early stages, including supply chain attacks, spear phishing, and data exfiltration.
+          - Discovered and analyzed 10+ web vulnerabilites, including authentication bypass, file upload vulnerabilities, and plaintext credential transmission.
+          - Led incident response and analysis team for large-scale cyber threats such as Log4j vulnerabilities and DDoS attacks.
       - #title: ROK Cyber Operations Command
-        sub_title: Researcher and Developer
-        caption: June 2019 - June 2020
-        #link: Link to company (optional)
-        # quote: >
-        #   Short description of the company (optional)
+        sub_title: Researcher and Developer <br>(as 2nd Lt, ROK Army)
+        caption: 2019.08 - 2020.08
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Conducted vulnerability analysis of Korean open-source operating systmes(HamoniKR OS, GooroomOS, TmaxOS).
+          - Researched AI implementation for military intrusion detection systems using KISA information security R&D datasets.
+          - Designed and Developed 3 specialized programs to support cyber operations.
+      - layout: left
+        title: Cyber Warfare Lab, Korea University 
+        sub_title: Undergraduate Research Assistant
+        caption: 2017.03 - 2019.02
+        quote: >
+          Cyber Warefare Lab is a specialized lab for research and development of defense technologies related to cyberwarfare.
+        description: | # this will include new lines to allow paragraphs
+          - Designed and developed a framework for cyber Command & Control(C2) system.
+          - Designed and developed a software that utilized [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) and [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) to produce and share Cyber Threat Intelligence(CTI).
+
+              **Technology Stack**: <mark>Python</mark>  <mark>Java</mark>  <mark>SQL</mark>  <mark>REST API</mark>  <mark>GraphQL</mark>  <mark>Docker</mark>  <mark>AWS</mark>  <mark>Elasticsearch (ELK)</mark>  <mark>MITRE ATT&CK</mark>
   - title: Education
     layout: list
     content:
@@ -107,15 +117,23 @@ content:
         quote: >
           School of Cybersecurity | Department of Information Security
         description: | # this will include new lines to allow paragraphs
-          Risk Management Lab advised by [Kyungho Lee](https://scholar.google.com/citations?view_op=list_works&hl=ko&user=jedqVOcAAAAJ&hl=en)
+          I am currently pursuing a Ph.D. in cybersecurity under the supervision of [Kyungho Lee](https://scholar.google.com/citations?view_op=list_works&hl=ko&user=jedqVOcAAAAJ&hl=en) and expanding my expertise into advanced areas of cybersecurity, with a particular focus on AI and Big Data.
+
+          I conducted research on CTI based on the MITRE ATT&CK Framework to model and analyze sophisticated threat actors and their tactics, techniques, and procedures.
+
+          My research has also encompassed the field of blockchain security. I have worked on cryptocurrency incident analysis, illicit transaction tracking, and improved detection methods for cryptocurrency-based money laundering.
       - layout: left
         title: Korea University
-        sub_title: B.S. in Cyber Defense, IT Convergence Security
+        sub_title: B.S. in Cyber Defense, <br>IT Convergence Security
         caption: 2015.03 - 2019.02
         quote: >
           Division of Information Security | Department of Cyber Defense
         description: | # this will include new lines to allow paragraphs
-          Cybersecurity Lab advised by [Kyungho Lee](https://scholar.google.com/citations?view_op=list_works&hl=ko&user=jedqVOcAAAAJ&hl=en)
+          As a student majoring in cybersecurity at the Korea University, I completed a rigorous academic program that provided me with a strong foundation in core concepts of cybersecurity such as network security, cryptography, digital forensics, and vulnerability analysis.
+
+          I have also developed a deep understanding of domestic and international cybersecurity laws and regulations, including Network Act, Personal Information Protection Act, GDPR, and the Tallinn Manual.
+
+          I was challenged to apply my knowledge to real-world cyber threats and security issues by participating in hands-on projects and research opportunities, and I developed my problem-solving and critical thinking skills by collaborating with my peers.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
