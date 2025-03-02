@@ -84,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Collected threat intelligence from OSINT and dark web, developing an automated analysis system to enhance proactive threat detection.
           - Reverse-engineered 50+ malware samples, extracting and sharing Indicators of Compromise (IoCs) and publishing 10+ in-depth analysis reports on emerging malware threats.  
-          - Conducted multiple threat hunting operations independently(ROK-only) and in collaboration with U.S. Cyber Command.
+          - Conducted multiple threat hunting operations independently (ROK-only) and in collaboration with U.S. Cyber Command.
 
               **Technology Stack**: <mark>IDA Pro</mark>  <mark>Wireshark</mark>  <mark>NetWitness NDR</mark>  <mark>MISP</mark>  <mark>Shodan</mark>  <mark>VMware vSphere</mark>
       - #title: ROK Cyber Operations Command              
@@ -102,8 +102,8 @@ content:
         sub_title: Researcher and Developer <br></b>(as 2nd Lt, ROK Army)<b>
         caption: 2019.08 - 2020.08
         description: | # this will include new lines to allow paragraphs
-          - Conducted vulnerability analysis of Korean open-source operating systmes(HamoniKR OS, GooroomOS, TmaxOS).
-          - Researched AI implementation for military intrusion detection systems using KISA information security R&D datasets.
+          - Conducted vulnerability analysis of Korean open-source operating systems (HamoniKR OS, GooroomOS, TmaxOS).
+          - Researched AI implementation for network intrusion detection systems using KISA information security R&D datasets.
           - Designed and Developed 3 specialized programs to support cyber operations.
 
               **Technology Stack**: <mark>C/C++</mark>  <mark>Python</mark>  <mark>TensorFlow</mark>  <mark>PyTorch</mark>  <mark>Scikit-learn</mark>
@@ -112,10 +112,10 @@ content:
         sub_title: Undergraduate Research Assistant
         caption: 2017.03 - 2019.02
         quote: >
-          Cyber Warfare Lab is a specialized lab for research and development of defense technologies related to cyberwarfare.
+          Cyber Warfare Lab is a specialized lab for research and development of defense technologies related to cyberwarfare
         description: | # this will include new lines to allow paragraphs
           - Designed and developed a framework for cyber Command & Control(C2) system.
-          - Designed and developed a software that utilized [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) and [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) to produce and share Cyber Threat Intelligence(CTI).
+          - Designed and developed a software that utilized [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) and [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) to produce and share Cyber Threat Intelligence (CTI).
 
               **Technology Stack**: <mark>Python</mark>  <mark>Java</mark>  <mark>SQL</mark>  <mark>REST API</mark>  <mark>GraphQL</mark>  <mark>Docker</mark>  <mark>AWS</mark>  <mark>Elasticsearch (ELK)</mark>  <mark>MITRE ATT&CK</mark>
   - title: Education
@@ -140,7 +140,7 @@ content:
         quote: >
           Division of Information Security | Department of Cyber Defense
         description: | # this will include new lines to allow paragraphs
-          As a student majoring in cybersecurity at the Korea University, I completed a rigorous academic program that provided me with a strong foundation in core concepts of cybersecurity such as network security, cryptography, digital forensics, and vulnerability analysis.
+          As a student majoring in cybersecurity, I completed a rigorous academic program that provided me with a strong foundation in core concepts of cybersecurity such as network security, cryptography, digital forensics, and vulnerability analysis.
 
           I have also developed a deep understanding of domestic and international cybersecurity laws and regulations, including Network Act, Personal Information Protection Act, GDPR, and the Tallinn Manual.
 
@@ -167,10 +167,10 @@ content:
       - **Seo, J.**, Park, M., Oh, H., & Lee, K. (2018, October). Money laundering in the bitcoin network: Perspective of mixing services. In 2018 International Conference on Information and Communication Technology Convergence (ICTC) (pp. 1403-1405). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8539548)
       - Joo, M., **Seo, J.**, Oh, J., Park, M., & Lee, K. (2018, July). Situational awareness framework for cyber crime prevention model in cyber physical system. In 2018 tenth international conference on ubiquitous and future networks (icufn) (pp. 837-842). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8436591)
       - Park, M., **Seo, J.**, Han, J., Oh, H., & Lee, K. (2018, June). Situational Awareness for Hybrid Warfare: Risk Measurement Between Cyber Warfare and Nuclear Warfare. In ECCWS 2018 17th European Conference on Cyber Warfare and Security (Vol. 2, p. 360). [[PAPER]](https://books.google.co.kr/books?hl=ko&lr=&id=-kFmDwAAQBAJ&oi=fnd&pg=PA360&dq=Situational+Awareness+for+Hybrid+Warfare:+Risk+Measurement+Between+Cyber+Warfare+and+Nuclear+Warfare&ots=ZFOWQdtf2t&sig=OIWezHkqad6xDlNs_c2Dc85qtpg&redir_esc=y#v=onepage&q=Situational%20Awareness%20for%20Hybrid%20Warfare%3A%20Risk%20Measurement%20Between%20Cyber%20Warfare%20and%20Nuclear%20Warfare&f=false)
+      - Joo, M., **Seo, J.**, Park, M., Oh, H. R., & Lee, K. (2018, June). Possibility of Using Cyber-PYSOP Through Nuclear Weapon: Symbolic Meaning and Risk Measurement of Nuclear Weapon in Social Network. In ECCWS 2018 17th European Conference on Cyber Warfare and Security V2 (p. 233). Academic Conferences and publishing limited. [[PAPER]](https://books.google.co.kr/books?hl=ko&lr=&id=-kFmDwAAQBAJ&oi=fnd&pg=PA233&dq=Possibility+of+Using+Cyber-PYSOP+Through+Nuclear+Weapon:+Symbolic+Meaning+and+Risk+Measurement+of+Nuclear+Weapon+in+Social+Network&ots=ZFOWQdth-o&sig=FZLvp9IE_Tdrj9FjZfvwrImzf3Q&redir_esc=y#v=onepage&q=Possibility%20of%20Using%20Cyber-PYSOP%20Through%20Nuclear%20Weapon%3A%20Symbolic%20Meaning%20and%20Risk%20Measurement%20of%20Nuclear%20Weapon%20in%20Social%20Network&f=false)
       - Park, M., Joo, M., **Seo, J.**, Kim, K., Park, M., & Lee, K. (2018, January). Complex Network of Damage Assessment Using GMM Based FAIR. In 2018 IEEE International Conference on Big Data and Smart Computing (BigComp) (pp. 627-630). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8367191)
       - Kim, K., **Seo, J.**, Park, M., Park, M., & Lee, K. (2018). A Cyber Command and Control Framework for Psychological Operation Using Social Media. Journal of Telecommunication, Electronic and Computer Engineering (JTEC), 10(4), 101-105. [[PAPER]](https://jtec.utem.edu.my/jtec/article/view/4792)
-      - Joo, M., Seo, J., Park, M., Oh, H. R., & Lee, K. (2018, June). Possibility of Using Cyber-PYSOP Through Nuclear Weapon: Symbolic Meaning and Risk Measurement of Nuclear Weapon in Social Network. In ECCWS 2018 17th European Conference on Cyber Warfare and Security V2 (p. 233). Academic Conferences and publishing limited. [[PAPER]](https://books.google.co.kr/books?hl=ko&lr=&id=-kFmDwAAQBAJ&oi=fnd&pg=PA233&dq=Possibility+of+Using+Cyber-PYSOP+Through+Nuclear+Weapon:+Symbolic+Meaning+and+Risk+Measurement+of+Nuclear+Weapon+in+Social+Network&ots=ZFOWQdth-o&sig=FZLvp9IE_Tdrj9FjZfvwrImzf3Q&redir_esc=y#v=onepage&q=Possibility%20of%20Using%20Cyber-PYSOP%20Through%20Nuclear%20Weapon%3A%20Symbolic%20Meaning%20and%20Risk%20Measurement%20of%20Nuclear%20Weapon%20in%20Social%20Network&f=false)
-      - Park, M., Seo, J., Kim, K., Park, M., & Lee, K. (2017, October). Criminal Minds: Reasoning Prime Suspect in Russian Hacking Scandal by Perspective of Insiders. In Proceedings of the 2017 International Workshop on Managing Insider Security Threats (pp. 97-100). [[PAPER]](https://dl.acm.org/doi/abs/10.1145/3139923.3139936)
+      - Park, M., **Seo, J.**, Kim, K., Park, M., & Lee, K. (2017, October). Criminal Minds: Reasoning Prime Suspect in Russian Hacking Scandal by Perspective of Insiders. In Proceedings of the 2017 International Workshop on Managing Insider Security Threats (pp. 97-100). [[PAPER]](https://dl.acm.org/doi/abs/10.1145/3139923.3139936)
 
   - title: Avtivities and Awards # Title for the section
     layout: text # Type of content section (list/text)
@@ -178,13 +178,13 @@ content:
       - **4th Place** at the 2024 WhiteHat Contest (2024)
       - **3rd Place (Korea Internet & Security Agency Award)** at the Cyber Talpiot Hackathon (2023) 
       - **4th Place** at the Splunk Korea 2023 BOTS (Boss of the SOC) (2023)
-      - Led a specialized team for the ASEAN Defense Ministers' Meeting-Plus (ADMM-Plus) Cyber Training and Exercise (CYTREX). [Media](https://www.news1.kr/politics/diplomacy-defense/5226891) (2023)
+      - Led a specialized team for the ASEAN Defense Ministers' Meeting-Plus (ADMM-Plus) Cyber Training and Exercise (CYTREX). (2023) [[Media]](https://www.news1.kr/politics/diplomacy-defense/5226891) 
       - Commendation by the Commander of ROK Cyber Operations Command (2023)
       - Commendation by the Commander of Defense Security Agency (2023)
       - Letter of Appreciation from the Commander, Cyber National Mission Force, U.S. Cyber Command (2023)
       - Commendation by the Chief of ROK Army Cyber Operations Center (2022)
       - Commendation by the Commander of ROK Cyber Operations Command (2021)
-      - 1st Place (Korea Institute of Information Security & Cryptology Award) in the AI Detection Category at the 2019 K-Cyber Security Challenge (2019)
+      - **1st Place (Korea Institute of Information Security & Cryptology Award)** in the AI Detection Category at the 2019 K-Cyber Security Challenge (2019)
       - Future Talent Award from the Commissioner of Defense Acquisition Program Administration (DAPA) (2018)
 
 # Footer
