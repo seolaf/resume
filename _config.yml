@@ -55,9 +55,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  With 7 years of experience in cybersecurity, I have developed extensive expertise across both Red Team and Blue Team operations. During my professional career, I concurrently pursued a Ph.D. program, strengthening my research capabilities while continuing to develop practical skills in the field. I approach all cybersecurity challenges with enthusiasm and dedication, with a particular interest in data mining applications. My strong passion for continuous learning allows me to adapt quickly and perform effectively in diverse environments while constantly enhancing my skillset. Beyond personal growth, I also take pleasure in sharing knowledge with colleagues from diverse backgrounds and pride myself on the ability to integrate into any team.
-  
-  With 7 years of experience in cybersecurity, I have developed expertise in both Red Team and Blue Team operations. I pursued a Ph.D. program concurrently with my professional work, strengthening my research capabilities in the field. Through continuous learning, I effectively address cybersecurity challenges, with particular expertise in threat hunting
+  With 7 years of cybersecurity experience, I have developed expertise in both Red Team and Blue Team operations. Concurrently, I pursued a Ph.D. program, strengthening my research capabilities. I approach every challenge with enthusiasm, with a particular interest in threat hunting and continuously study to adapt and excel in diverse environments. Beyond personal growth, I value sharing knowledge with colleagues and take pride in cooperating effectively within any team.
 
 content:
   - title: Work Experience
