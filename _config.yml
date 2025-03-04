@@ -53,9 +53,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/holaf.jpg
 about_content: | # this will include new lines to allow paragraphs
-  With 7 years of cybersecurity experience, I have developed expertise in both Red Team and Blue Team operations. Concurrently, I pursued a Ph.D. program, strengthening my research capabilities. I approach every challenge with enthusiasm, with a particular interest in threat hunting and continuously study to adapt and excel in diverse environments. Beyond personal growth, I value sharing knowledge with colleagues and take pride in cooperating effectively within any team.
+  With 7 years of cybersecurity experience, I have developed expertise in both Red Team and Blue Team operations. Concurrently, I pursued a Ph.D. program, strengthening my research capabilities. I address every challenge with enthusiasm, with a particular interest in threat hunting and continuously study to adapt and excel in diverse environments. Beyond personal growth, I value sharing knowledge with colleagues and take pride in cooperating effectively within any team.
 
 content:
   - title: Work Experience
@@ -91,7 +91,7 @@ content:
         sub_title: Threat Hunting Engineer <br></b>(as 1st Lt, ROK Army)<b>
         caption: 2020.09 - 2022.07
         description: | # this will include new lines to allow paragraphs
-          - Designed and implemented 25 [SPL](https://docs.splunk.com/Splexicon:SPL)-based threat hunting scenarios and 10 monitoring dashboards to visiualize detection results and enhance situational awareness.
+          - Designed and implemented 25 [SPL](https://docs.splunk.com/Splexicon:SPL)-based threat hunting scenarios and 10 monitoring dashboards.
           - Successfully identified and mitigated 20+ security breaches in early stages, including supply chain attacks, spear phishing, and data exfiltration.
           - Discovered and analyzed 10+ web vulnerabilites, including authentication bypass, file upload vulnerabilities, and plaintext credential transmission.
           - Led incident response and analysis team for large-scale cyber threats such as Log4j vulnerabilities and DDoS attacks.
@@ -172,7 +172,7 @@ content:
       - Kim, K., **Seo, J.**, Park, M., Park, M., & Lee, K. (2018). A Cyber Command and Control Framework for Psychological Operation Using Social Media. Journal of Telecommunication, Electronic and Computer Engineering (JTEC), 10(4), 101-105. [[PAPER]](https://jtec.utem.edu.my/jtec/article/view/4792)
       - Park, M., **Seo, J.**, Kim, K., Park, M., & Lee, K. (2017, October). Criminal Minds: Reasoning Prime Suspect in Russian Hacking Scandal by Perspective of Insiders. In Proceedings of the 2017 International Workshop on Managing Insider Security Threats (pp. 97-100). [[PAPER]](https://dl.acm.org/doi/abs/10.1145/3139923.3139936)
 
-  - title: Avtivities and Awards # Title for the section
+  - title: Activities and Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       - **4th Place** at the 2024 WhiteHat Contest (2024)
