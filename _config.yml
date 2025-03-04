@@ -31,10 +31,13 @@ linkedin_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
+- title: Scholar
+  icon: fa fa-mortar-board
+  url: https://scholar.google.com/citations?user=AAyFXG4AAAAJ&hl=en
 - title: Dreamhack
   icon: fab fa-font-awesome-flag (https://fontawesome.com/v5/icons/font-awesome-flag?f=brands&s=solid)
   url: https://dreamhack.io/users/950/wargame
@@ -52,13 +55,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  With 7 years of experience in cybersecurity, I have developed extensive expertise across both Red Team and Blue Team operations. During my professional career, I concurrently pursued a Ph.D. program, strengthening my research capabilities while continuing to develop practical skills in the field. I approach all cybersecurity challenges with enthusiasm and dedication, with a particular interest in data mining applications. My strong passion for continuous learning allows me to adapt quickly and perform effectively in diverse environments while constantly enhancing my skillset. Beyond personal growth, I also take pleasure in sharing knowledge with colleagues from diverse backgrounds and pride myself on the ability to integrate into any team.
+  
+  With 7 years of experience in cybersecurity, I have developed expertise in both Red Team and Blue Team operations. I pursued a Ph.D. program concurrently with my professional work, strengthening my research capabilities in the field. Through continuous learning, I effectively address cybersecurity challenges, with particular expertise in threat hunting
 
 content:
   - title: Work Experience
@@ -67,13 +66,16 @@ content:
       - layout: left
         title: | 
           Confidential
-        sub_title: Vulnerability Engineer <br></b>(as Capt, ROK Army)<b>
+        sub_title: Vulnerability Analyst <br></b>(as Capt, ROK Army)<b>
         caption: 2024.07 - present
         #link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Conducted vulnerability assessments and analysis for various websites and applications.
+          - Analyzed one-day vulnerabilities and researched zero-day vulnerabilities.
+
+              **Technology Stack**: <mark>Burp Suite</mark>  <mark>Nmap</mark>  <mark>Wireshark</mark>  <mark>Cobalt Strike</mark>  <mark>IDA Pro</mark>  <mark>Ghidra</mark>  <mark>Docker</mark>
       - layout: left
         title: R.O.K. <br>Cyber Operations Command
         sub_title: Threat Intelligence Engineer <br></b>(as Capt, ROK Army)<b>
