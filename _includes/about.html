@@ -8,7 +8,11 @@
       </div>
     {%- endif -%}
     <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
-      {{ site.about_content | strip | markdownify }}
+      {%- if page.lang == "ko" -%}
+        {{ site.about_content_ko | strip | markdownify }}
+      {%- else -%}
+        {{ site.about_content | strip | markdownify }}
+      {%- endif -%}
     </div>
   </div>
 </div>

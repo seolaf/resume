@@ -1,5 +1,5 @@
 # Site
-repository: seolaf/resume (eg. sproogen/modern-resume-theme)
+repository: seolaf/resume
 favicon: images/favicon.ico # Path to favicon (eg. images/favicon.ico)
 
 # Content configuration version
@@ -7,6 +7,7 @@ version: 2
 
 # Personal info
 name: Jason Seo
+name_ko: 서 Jason
 title: Cybersecurity Engineer
 email: holafaloh@gmail.com
 # email_title: Email (Email title override)
@@ -55,7 +56,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/holaf.jpg
 about_content: | # this will include new lines to allow paragraphs
-  With 7 years of cybersecurity experience, I have developed expertise in both Red Team and Blue Team operations. Concurrently, I pursued a Ph.D. program, strengthening my research capabilities. I address every challenge with enthusiasm, with a particular interest in threat hunting and continuously study to adapt and excel in diverse environments. Beyond personal growth, I value sharing knowledge with colleagues and take pride in cooperating effectively within any team.
+  Hello, my name is Jason Seo. I'm a cybersecurity engineer with 7 years of experience, specializing in both offensive and defensive operations. Concurrently, I pursued a Ph.D. program, strengthening my research capabilities. I address every challenge with enthusiasm, with a particular interest in threat hunting and continuously study to adapt and excel in diverse environments. Beyond personal growth, I value sharing knowledge with colleagues and take pride in cooperating effectively within any team.
+about_content_ko: | 
+  안녕하세요. 7년간 사이버보안 엔지니어로 일해 온 Jason입니다.
+
+  고려대학교 사이버국방학과를 졸업한 뒤, 의무복무 기간 동안 레드팀과 블루팀 업무를 모두 경험하며 실무 지식을 쌓았습니다. 또한 박사 과정을 수료하며 연구 역량을 강화했습니다. 
+
+  사이버보안의 모든 분야에 흥미를 갖고 있지만, 특히 위협 헌팅에는 더욱 깊은 애정을 갖고 있습니다. 끊임없이 변화하는 환경에 적응하기 위해 늘 공부하고, 그 과정에서 얻은 지식을 동료들과 공유하는 일을 중요하게 생각합니다.
+
+  어떤 팀과도 효과적으로 협력할 수 있는 커뮤니케이션 역량을 지니고 있으며, 항상 탁월한 결과물을 도출하기 위해 노력합니다.
 
 content:
   - title: Work Experience
@@ -108,7 +117,7 @@ content:
 
               **Technology Stack**: <mark>C/C++</mark>  <mark>Python</mark>  <mark>TensorFlow</mark>  <mark>PyTorch</mark>  <mark>Scikit-learn</mark>
       - layout: left
-        title: Cyber Warfare Lab, Korea University 
+        title: Cyber Warfare Lab,<br> Korea University 
         sub_title: Undergraduate Research Assistant
         caption: 2017.03 - 2019.02
         quote: >
@@ -118,6 +127,67 @@ content:
           - Designed and developed a software that utilized [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html) and [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html) to produce and share Cyber Threat Intelligence (CTI).
 
               **Technology Stack**: <mark>Python</mark>  <mark>Java</mark>  <mark>SQL</mark>  <mark>REST API</mark>  <mark>GraphQL</mark>  <mark>Docker</mark>  <mark>AWS</mark>  <mark>Elasticsearch (ELK)</mark>  <mark>MITRE ATT&CK</mark>
+
+    content_ko:
+      - layout: left
+        title: | 
+          비공개
+        sub_title: 취약점 분석가 </b>(대위)<b>
+        caption: 2024.07 - 현재
+        #link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - 웹사이트 및 애플리케이션에 대한 취약점 분석 수행
+          - 원데이 취약점 분석 및 제로데이 취약점 연구
+
+              **Technology Stack**: <mark>Burp Suite</mark>  <mark>Nmap</mark>  <mark>Wireshark</mark>  <mark>Cobalt Strike</mark>  <mark>IDA Pro</mark>  <mark>Ghidra</mark>  <mark>Docker</mark>
+      - layout: left
+        title: 사이버작전사령부
+        sub_title: 위협정보 엔지니어 </b>(대위)<b>
+        caption: 2022.07 - 2024.07
+        #link: Link to company (optional)
+        quote: >
+          사이버공간에서 작전을 수행하는 국방부 직할부대
+        description: | # this will include new lines to allow paragraphs
+          - OSINT와 다크웹에서 위협정보를 자동 수집 및 분석하는 시스템 개발
+          - 50개 이상의 악성코드를 리버싱하여 침해지표(IoC) 분석 및 공유
+          - 10개 이상의 신종 악성코드에 대한 심층 분석 보고서 발행 및 공유
+          - 독립된 네트워크에서 알려지지 않은 위협을 찾기 위한 위협 헌팅 작전 다수 수행
+
+              **Technology Stack**: <mark>IDA Pro</mark>  <mark>Wireshark</mark>  <mark>NetWitness NDR</mark>  <mark>MISP</mark>  <mark>Shodan</mark>  <mark>VMware vSphere</mark>
+      - #title: ROK Cyber Operations Command              
+        sub_title: 위협 헌팅 엔지니어 </b>(중위)<b>
+        caption: 2020.09 - 2022.07
+        description: | # this will include new lines to allow paragraphs
+          - 25개의 [SPL](https://docs.splunk.com/Splexicon:SPL) 기반 위협 헌팅 시나리오 및 10개의 모니터링 대시보드 설계 및 구현
+          - 공급망 공격, 스피어 피싱, 데이터 유출 등 20건 이상의 보안 침해를 초기 단계에서 식별 및 대응
+          - 인증 우회, 파일 업로드·다운로드 취약점, 평문 암호 전송 등 10건 이상의 웹 취약점 식별 및 분석
+          - Log4j 취약점, DDoS 공격 등 대규모 사이버 위협에 대한 분석 대응팀 리드
+          - 사내 보안 분석가를 위한 분기별 Splunk 및 위협 헌팅 기법 교육 프로그램 리드
+
+              **Technology Stack**: <mark>Splunk</mark>  <mark>QRadar</mark>  <mark>Wireshark</mark>  <mark>Zeek</mark>  <mark>Arkime</mark>  <mark>Security Onion</mark>  <mark>Snort</mark>  <mark>Suricata</mark> 
+      - #title: ROK Cyber Operations Command
+        sub_title: 보안기술 연구원 </b>(소위)<b>
+        caption: 2019.08 - 2020.08
+        description: | # this will include new lines to allow paragraphs
+          - 개방형 OS 3종(하모니카, 구름, 티맥스)에 대한 취약점 분석 수행
+          - AI 기반 네트워크 침입 탐지 시스템 연구
+          - 사이버작전을 지원하기 위한 3가지 특화 프로그램 설계 및 개발
+
+              **Technology Stack**: <mark>C/C++</mark>  <mark>Python</mark>  <mark>TensorFlow</mark>  <mark>PyTorch</mark>  <mark>Scikit-learn</mark>
+      - layout: left
+        title: 고려대학교 <br>사이버전 연구실
+        sub_title: 인턴 연구원
+        caption: 2017.03 - 2019.02
+        quote: >
+          국가 사이버 방어와 사이버전 임무 수행에 필요한 기반기술을 연구하는 특화 연구실
+        description: | # this will include new lines to allow paragraphs
+          - 사이버 지휘통제(Command & Control) 시스템을 위한 프레임워크 설계 및 개발
+          - [STIX](https://oasis-open.github.io/cti-documentation/stix/intro.html)와 [TAXII](https://oasis-open.github.io/cti-documentation/taxii/intro.html)를 활용한 사이버위협정보(CTI) 생산 및 공유 소프트웨어 개발
+
+              **Technology Stack**: <mark>Python</mark>  <mark>Java</mark>  <mark>SQL</mark>  <mark>REST API</mark>  <mark>GraphQL</mark>  <mark>Docker</mark>  <mark>AWS</mark>  <mark>Elasticsearch (ELK)</mark>  <mark>MITRE ATT&CK</mark>
+
   - title: Education
     layout: list
     content:
@@ -146,6 +216,23 @@ content:
 
           I was challenged to apply my knowledge to real-world cyber threats and security issues by participating in hands-on projects and research opportunities, and I developed my problem-solving and critical thinking skills by collaborating with my peers.
 
+    content_ko:
+      - layout: left
+        title: 고려대학교
+        sub_title: 정보보안학과 박사과정 수료
+        caption: 2020.03 - Present
+        quote: >
+          정보보호대학원 | 정보보안학과
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: 고려대학교
+        sub_title: 사이버국방학과 학사
+        caption: 2015.03 - 2019.02
+        quote: >
+          정보보호학부 | 사이버국방학과
+        description: | # this will include new lines to allow paragraphs
+
   - title: Certifications
     layout: list
     content:
@@ -158,10 +245,30 @@ content:
       - layout: top-middle
         title: Engineer Information Processing
         caption : 2018.11 -
+    content_ko:
+      - layout: top-middle
+        title: 정보보안기사
+        caption : 2024.09 - 
+      - layout: top-middle
+        title: 빅데이터분석기사
+        caption : 2023.07 -
+      - layout: top-middle
+        title: 정보처리기사
+        caption : 2018.11 -    
 
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
+      - **Seo, J.**, Kim, K., Park, M., Park, M., & Lee, K. (2018). An analysis of economic impact on IoT industry under GDPR. Mobile Information Systems, 2018(1), 6792028. [[PAPER]](https://onlinelibrary.wiley.com/doi/full/10.1155/2018/6792028)
+      - Park, M., **Seo, J.**, Han, J., Oh, H., & Lee, K. (2018). Situational Awareness Framework for Threat Intelligence Measurement of Android Malware. J. Wirel. Mob. Networks Ubiquitous Comput. Dependable Appl., 9(3), 25-38. [[PAPER]](https://isyou.info/jowua/papers/jowua-v9n3-3.pdf)
+      - **Seo, J.**, Park, M., Oh, H., & Lee, K. (2018, October). Money laundering in the bitcoin network: Perspective of mixing services. In 2018 International Conference on Information and Communication Technology Convergence (ICTC) (pp. 1403-1405). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8539548)
+      - Joo, M., **Seo, J.**, Oh, J., Park, M., & Lee, K. (2018, July). Situational awareness framework for cyber crime prevention model in cyber physical system. In 2018 tenth international conference on ubiquitous and future networks (icufn) (pp. 837-842). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8436591)
+      - Park, M., **Seo, J.**, Han, J., Oh, H., & Lee, K. (2018, June). Situational Awareness for Hybrid Warfare: Risk Measurement Between Cyber Warfare and Nuclear Warfare. In ECCWS 2018 17th European Conference on Cyber Warfare and Security (Vol. 2, p. 360). [[PAPER]](https://books.google.co.kr/books?hl=ko&lr=&id=-kFmDwAAQBAJ&oi=fnd&pg=PA360&dq=Situational+Awareness+for+Hybrid+Warfare:+Risk+Measurement+Between+Cyber+Warfare+and+Nuclear+Warfare&ots=ZFOWQdtf2t&sig=OIWezHkqad6xDlNs_c2Dc85qtpg&redir_esc=y#v=onepage&q=Situational%20Awareness%20for%20Hybrid%20Warfare%3A%20Risk%20Measurement%20Between%20Cyber%20Warfare%20and%20Nuclear%20Warfare&f=false)
+      - Joo, M., **Seo, J.**, Park, M., Oh, H. R., & Lee, K. (2018, June). Possibility of Using Cyber-PYSOP Through Nuclear Weapon: Symbolic Meaning and Risk Measurement of Nuclear Weapon in Social Network. In ECCWS 2018 17th European Conference on Cyber Warfare and Security V2 (p. 233). Academic Conferences and publishing limited. [[PAPER]](https://books.google.co.kr/books?hl=ko&lr=&id=-kFmDwAAQBAJ&oi=fnd&pg=PA233&dq=Possibility+of+Using+Cyber-PYSOP+Through+Nuclear+Weapon:+Symbolic+Meaning+and+Risk+Measurement+of+Nuclear+Weapon+in+Social+Network&ots=ZFOWQdth-o&sig=FZLvp9IE_Tdrj9FjZfvwrImzf3Q&redir_esc=y#v=onepage&q=Possibility%20of%20Using%20Cyber-PYSOP%20Through%20Nuclear%20Weapon%3A%20Symbolic%20Meaning%20and%20Risk%20Measurement%20of%20Nuclear%20Weapon%20in%20Social%20Network&f=false)
+      - Park, M., Joo, M., **Seo, J.**, Kim, K., Park, M., & Lee, K. (2018, January). Complex Network of Damage Assessment Using GMM Based FAIR. In 2018 IEEE International Conference on Big Data and Smart Computing (BigComp) (pp. 627-630). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8367191)
+      - Kim, K., **Seo, J.**, Park, M., Park, M., & Lee, K. (2018). A Cyber Command and Control Framework for Psychological Operation Using Social Media. Journal of Telecommunication, Electronic and Computer Engineering (JTEC), 10(4), 101-105. [[PAPER]](https://jtec.utem.edu.my/jtec/article/view/4792)
+      - Park, M., **Seo, J.**, Kim, K., Park, M., & Lee, K. (2017, October). Criminal Minds: Reasoning Prime Suspect in Russian Hacking Scandal by Perspective of Insiders. In Proceedings of the 2017 International Workshop on Managing Insider Security Threats (pp. 97-100). [[PAPER]](https://dl.acm.org/doi/abs/10.1145/3139923.3139936)
+    content_ko: | # this will include new lines to allow paragraphs
       - **Seo, J.**, Kim, K., Park, M., Park, M., & Lee, K. (2018). An analysis of economic impact on IoT industry under GDPR. Mobile Information Systems, 2018(1), 6792028. [[PAPER]](https://onlinelibrary.wiley.com/doi/full/10.1155/2018/6792028)
       - Park, M., **Seo, J.**, Han, J., Oh, H., & Lee, K. (2018). Situational Awareness Framework for Threat Intelligence Measurement of Android Malware. J. Wirel. Mob. Networks Ubiquitous Comput. Dependable Appl., 9(3), 25-38. [[PAPER]](https://isyou.info/jowua/papers/jowua-v9n3-3.pdf)
       - **Seo, J.**, Park, M., Oh, H., & Lee, K. (2018, October). Money laundering in the bitcoin network: Perspective of mixing services. In 2018 International Conference on Information and Communication Technology Convergence (ICTC) (pp. 1403-1405). IEEE. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/8539548)
@@ -176,7 +283,7 @@ content:
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
       - **4th Place** at the 2024 WhiteHat Contest (2024)
-      - **3rd Place (Korea Internet & Security Agency Award)** at the Cyber Talpiot Hackathon (2023) 
+      - **3rd Place** (Korea Internet & Security Agency Award) at the Cyber Talpiot Hackathon (2023) 
       - **4th Place** at the Splunk Korea 2023 BOTS (Boss of the SOC) (2023)
       - Led a specialized team for the ASEAN Defense Ministers' Meeting-Plus (ADMM-Plus) Cyber Training and Exercise (CYTREX). (2023) [[Media]](https://www.news1.kr/politics/diplomacy-defense/5226891) 
       - Commendation by the Commander of ROK Cyber Operations Command (2023)
@@ -184,8 +291,21 @@ content:
       - Letter of Appreciation from the Commander, Cyber National Mission Force, U.S. Cyber Command (2023)
       - Commendation by the Chief of ROK Army Cyber Operations Center (2022)
       - Commendation by the Commander of ROK Cyber Operations Command (2021)
-      - **1st Place (Korea Institute of Information Security & Cryptology Award)** in the AI Detection Category at the 2019 K-Cyber Security Challenge (2019)
+      - **1st Place** (Korea Institute of Information Security & Cryptology Award) in the AI Detection Category at the 2019 K-Cyber Security Challenge (2019)
       - Future Talent Award from the Commissioner of Defense Acquisition Program Administration (DAPA) (2018)
+
+    content_ko: | # this will include new lines to allow paragraphs
+      - 화이트햇 콘테스트 본선 **4위** (2024)
+      - 사이버 탈피오트 해커톤 본선 **3위** (KISA 원장상) (2023) 
+      - Splunk 2023 BOTS(Boss of the SOC) 본선 **4위** (2023)
+      - ADMM-Plus(ASEAN Defense Ministers' Meeting-Plus) CYTREX(Cyber Training and Exercise) **공동 1위** (2023) [[미디어]](https://www.news1.kr/politics/diplomacy-defense/5226891) 
+      - 사이버작전사령관 표창 (2023)
+      - 777사령관 표창 (2023)
+      - 美 사이버사령부 사이버 국가 임무 부대(CNMF) 부대장 감사장 (2023)
+      - 육군 사이버작전센터장 표창(2022)
+      - 사이버작전사령관 표창 (2021)
+      - K-사이버 시큐리티 챌린지 AI 탐지 부문 **1위** (정보보호학회장상) (2019)
+      - 방위사업청장 미래인재상 (2018)      
 
 # Footer
 footer_show_references: true

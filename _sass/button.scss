@@ -75,3 +75,36 @@
     box-shadow: inset 0 0 0 2px #e6e6e6;
   }
 }
+
+.lang-switcher-btn {
+  @extend .button--sacnite;
+  
+  width: 60px;
+  height: 25px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  text-decoration: none !important;
+  position: relative;
+  overflow: hidden;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  
+  color: #fff !important;
+  &::before {
+    box-shadow: inset 0 0 0 9999px #333; 
+    transform: scale3d(0.9, 0.9, 1);
+    border-radius: inherit;
+  }
+
+  /* (6) 호버 시 box-shadow를 좁혀 테두리만 남기는 효과 */
+  &:hover {
+    color: #333 !important;
+    &::before {
+      box-shadow: inset 0 0 0 2px #333;
+      transform: scale3d(1, 1, 1);
+    }
+  }
+}
