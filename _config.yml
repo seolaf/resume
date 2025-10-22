@@ -153,54 +153,26 @@ content:
   - title: Work Experience
     layout: text
     content: |
-      <table style="width:100%; border-collapse: collapse;">
-        <tr style="background-color: #f8f9fa;">
-          <td style="padding: 15px; border-bottom: 1px solid #dee2e6;">
-            <strong>2024.07 - Present</strong><br>
-            Vulnerability Analyst<br>
-            <em>Confidential</em>
-          </td>
-        </tr>
-        <tr style="background-color: #ffffff;">
-          <td style="padding: 15px; border-bottom: 1px solid #dee2e6;">
-            <strong>2022.07 - 2024.07</strong><br>
-            Threat Intelligence Engineer<br>
-            <em>R.O.K. Cyber Operations Command</em>
-          </td>
-        </tr>
-        <tr style="background-color: #f8f9fa;">
-          <td style="padding: 15px; border-bottom: 1px solid #dee2e6;">
-            <strong>2020.09 - 2022.07</strong><br>
-            Threat Hunting Engineer<br>
-            <em>R.O.K. Cyber Operations Command</em>
-          </td>
-        </tr>
-        <tr style="background-color: #ffffff;">
-          <td style="padding: 15px;">
-            <strong>2019.08 - 2020.08</strong><br>
-            Security Technology Researcher<br>
-            <em>R.O.K. Cyber Research Institute</em>
-          </td>
-        </tr>
-      </table>
+      • **2024.07 - Present** | Vulnerability Analyst | *Confidential*
+      
+      • **2022.07 - 2024.07** | Threat Intelligence Engineer | *R.O.K. Cyber Operations Command*
+      
+      • **2020.09 - 2022.07** | Threat Hunting Engineer | *R.O.K. Cyber Operations Command*
+      
+      • **2019.08 - 2020.08** | Security Technology Researcher | *R.O.K. Cyber Research Institute*
+  
     content_ko: |
-      **2024.07 - 현재**  
-      취약점 분석가 · *비공개*
+      > **취약점 분석가** | 2024.07 - 현재  
+      > *비공개*
       
-      ---
+      > **위협정보 엔지니어** | 2022.07 - 2024.07  
+      > *사이버작전사령부*
       
-      **2022.07 - 2024.07**  
-      위협정보 엔지니어 · *사이버작전사령부*
+      > **위협 헌팅 엔지니어** | 2020.09 - 2022.07  
+      > *사이버작전사령부*
       
-      ---
-      
-      **2020.09 - 2022.07**  
-      위협 헌팅 엔지니어 · *사이버작전사령부*
-      
-      ---
-      
-      **2019.08 - 2020.08**  
-      보안기술 연구원 · *사이버연구소*
+      > **보안기술 연구원** | 2019.08 - 2020.08  
+      > *사이버연구소*
 
   - title: Work Experience
     layout: list
