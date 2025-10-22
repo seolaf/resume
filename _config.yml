@@ -154,7 +154,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: left
+      - layout: top
         title: | 
           Confidential
         sub_title: Vulnerability Researcher <br></b>(as Capt, ROK Army)<b>
@@ -165,7 +165,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Vulnerability research and zero-day discovery on web sites and applications
 
-      - layout: left
+      - layout: top
         title: R.O.K. <br>Cyber Operations Command
         sub_title: Threat Intelligence Engineer <br></b>(as Capt, ROK Army)<b>
         caption: 2022.07 - 2024.07
@@ -187,7 +187,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - AI-based security research and tool development
 
-      - layout: left
+      - layout: top
         title: Cyber Warfare Lab,<br> Korea University 
         sub_title: Undergraduate Research Assistant
         caption: 2017.03 - 2019.02
@@ -197,7 +197,7 @@ content:
           - CTI research and CTI platform development
 
     content_ko:
-      - layout: left
+      - layout: top
         title: | 
           비공개
         sub_title: 취약점 분석가 </b>(대위)<b>
@@ -208,7 +208,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - 웹사이트 및 애플리케이션에 대한 취약점 연구
 
-      - layout: left
+      - layout: top
         title: 사이버작전사령부
         sub_title: 위협정보 엔지니어 </b>(대위)<b>
         caption: 2022.07 - 2024.07
@@ -227,7 +227,7 @@ content:
         caption: 2019.08 - 2020.08
         description: | # this will include new lines to allow paragraphs
           - AI 보안 연구 및 도구 개발
-      - layout: left
+      - layout: top
         title: 고려대학교 <br>사이버전 연구실
         sub_title: 인턴 연구원
         caption: 2017.03 - 2019.02
