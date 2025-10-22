@@ -149,22 +149,12 @@ content:
           - 최신 공개 취약점(1-day) 분석 및 익스플로잇 기법 연구 및 제로데이 취약점 연구
 
               **Technology Stack**: <mark>Burp Suite</mark> <mark>Cobalt Strike</mark> <mark>IDA Pro</mark> <mark>Ghidra</mark> <mark>Docker</mark>
-  - title: Work Experience
-    layout: text
-    content: |
-      **2024.07 - Present** | Confidential | *Vulnerability Analyst (Capt, ROK Army)*
-      
-      **2022.07 - 2024.07** | R.O.K. Cyber Operations Command | *Threat Intelligence Engineer (Capt, ROK Army)*
-      
-      **2020.09 - 2022.07** | R.O.K. Cyber Operations Command | *Threat Hunting Engineer (1st Lt, ROK Army)*
-      
-      **2019.08 - 2020.08** | R.O.K. Cyber Operations Command | *Security Technology Researcher (2nd Lt, ROK Army)*
 
-      **2017.03 - 2019.02** | Cyber Warfare Lab, Korea University | *Undergraduate Research Assistant*
+
   - title: Work Experience
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: | 
           Confidential
         sub_title: Vulnerability Researcher <br></b>(as Capt, ROK Army)<b>
@@ -175,7 +165,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Vulnerability research and zero-day discovery on web sites and applications
 
-      - layout: top-middle
+      - layout: left
         title: R.O.K. <br>Cyber Operations Command
         sub_title: Threat Intelligence Engineer <br></b>(as Capt, ROK Army)<b>
         caption: 2022.07 - 2024.07
