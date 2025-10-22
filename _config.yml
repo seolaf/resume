@@ -153,13 +153,23 @@ content:
   - title: Work Experience
     layout: text
     content: |
-      • **2024.07 - Present** | Vulnerability Analyst | *Confidential*
+      **2024.07 - Present**  
+      Vulnerability Analyst · *Confidential*
       
-      • **2022.07 - 2024.07** | Threat Intelligence Engineer | *R.O.K. Cyber Operations Command*
+      ---
       
-      • **2020.09 - 2022.07** | Threat Hunting Engineer | *R.O.K. Cyber Operations Command*
+      **2022.07 - 2024.07**  
+      Threat Intelligence Engineer · *R.O.K. Cyber Operations Command*
       
-      • **2019.08 - 2020.08** | Security Technology Researcher | *R.O.K. Cyber Research Institute*
+      ---
+      
+      **2020.09 - 2022.07**  
+      Threat Hunting Engineer · *R.O.K. Cyber Operations Command*
+      
+      ---
+      
+      **2019.08 - 2020.08**  
+      Security Technology Researcher · *R.O.K. Cyber Research Institute*
   
     content_ko: |
       > **취약점 분석가** | 2024.07 - 현재  
