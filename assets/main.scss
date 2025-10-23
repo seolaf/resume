@@ -4,17 +4,24 @@
 
 @import 'modern-resume-theme';
 
-section:first-of-type .container {
+.container.intro-container > .row.clearfix {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    align-items: center;
     min-height: 400px;
   }
 
 details {
     text-align: right;
+    margin-top: 1rem;
+    font-size: inherit !important; 
 }
 
 details summary {
     display: inline-block;
+    cursor: pointer;
+    font-size: inherit !important;
 }
+
+details * {
+    font-size: inherit !important;
+  }
