@@ -148,7 +148,7 @@ content:
         caption: 2020.09 - 현재 | 사이버작전사령부 → 비공개 
         description: | 
           - 인증 우회, 안전하지 않은 파일 업로드, 자격증명 노출 등 10개 이상의 웹 취약점 식별
-          - 최신 공개 취약점(1-day) 분석 및 익스플로잇 기법 연구 및 제로데이 취약점 연구
+          - 최신 공개 취약점(1-day) 분석, 익스플로잇 기법 연구 및 제로데이 취약점 연구
 
               **Technology Stack**: <mark>Burp Suite</mark> <mark>Cobalt Strike</mark> <mark>IDA Pro</mark> <mark>Ghidra</mark> <mark>Docker</mark>
 
@@ -165,9 +165,9 @@ content:
       > *R.O.K. Cyber Operations Command*
       
       > **Security Technology Researcher** | 2019.08 - 2020.08  
-      > *R.O.K. Cyber Research Institute*
+      > *R.O.K. Cyber Operations Command*
 
-      > **Undergraduate Research Assistant** | 2017.03 - 2019.02
+      > **Undergraduate Research Assistant** | 2017.03 - 2019.02  
       > *Cyber Warfare Lab, Korea University*
   
     content_ko: |
@@ -181,9 +181,9 @@ content:
       > *사이버작전사령부*
       
       > **보안기술 연구원** | 2019.08 - 2020.08  
-      > *사이버연구소*
+      > *사이버작전사령부*
 
-      > **인턴 연구원** | 2017.03 - 2019.02
+      > **인턴 연구원** | 2017.03 - 2019.02  
       > *고려대학교 사이버전 연구실*
 
 
@@ -216,11 +216,22 @@ content:
           I was challenged to apply my knowledge to real-world cyber threats and security issues by participating in hands-on projects and research opportunities, and I developed my problem-solving and critical thinking skills by collaborating with my peers.
 
     content_ko: |
-       > **정보보안학과 박사과정** | 2020.03 - Present  
-       > *고려대학교 정보보호대학원*
-      
-       > **사이버국방학과 학사** | 2015.03 - 2019.02  
-       > *고려대학교 정보보호학부*
+      - layout: left
+        title: 고려대학교
+        sub_title: 정보보안학과 박사과정 수료
+        caption: 2020.03 - Present
+        quote: >
+          정보보호대학원 | 정보보안학과
+          
+      - layout: left
+        title: 고려대학교
+        sub_title: 사이버국방학과 학사
+        caption: 2015.03 - 2019.02
+        quote: >
+          정보보호학부 | 사이버국방학과
+        description: |
+          네트워크 보안, 시스템 해킹, 포렌식 등 사이버보안 핵심 교육 이수
+
 
   - title: Certifications
     layout: list
