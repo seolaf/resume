@@ -4,12 +4,21 @@
 
 @import 'modern-resume-theme';
 
-.container.intro-container > .row.clearfix {
-    display: flex;
-    align-items: center;
-    min-height: 400px;
+@media screen and (min-width: 768px) {
+    .intro-container .row {
+      display: flex !important;
+      align-items: center !important;
+      min-height: auto !important;
+    }
   }
-
+  
+  @media screen and (max-width: 767px) {
+    .intro-container .row {
+      display: block !important;
+      min-height: auto !important;
+    }
+  }
+  
 details {
     text-align: right;
     margin-top: 1rem;
