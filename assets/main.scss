@@ -34,3 +34,9 @@ details summary {
 details * {
     font-size: inherit !important;
   }
+
+details > br,
+details > a {
+    display: block;
+    text-align: left;
+}
