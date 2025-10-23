@@ -4,9 +4,17 @@
 
 @import 'modern-resume-theme';
 
-header + .container.intro-container {
+section:first-of-type .container {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    min-height: 400px; 
+    min-height: 400px;
   }
+
+details {
+    text-align: right;
+}
+
+details summary {
+    display: inline-block;
+}

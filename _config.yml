@@ -85,7 +85,6 @@ content:
           **Threat Hunting Operations**
           - Led proactive threat hunting operations across diverse network environments (internet-connected and isolated networks)
           - Conducted joint threat hunting operations with U.S. Cyber Command
-          - Developed custom threat hunting frameworks and automation tools
 
               **Technology Stack**: <mark>Splunk</mark> <mark>QRadar</mark> <mark>Wireshark</mark> <mark>Zeek</mark> <mark>Arkime</mark> <mark>Security Onion</mark>
 
@@ -127,7 +126,6 @@ content:
           **위협 헌팅 작전 수행**
           - 다양한 네트워크 환경(인터넷망, 독립망 등)에서 위협 헌팅 작전 주도
           - 美 사이버사령부 합동 위협 헌팅 작전 수행
-          - 맞춤형 헌팅 프레임워크 개발
 
               **Technology Stack**: <mark>Splunk</mark> <mark>QRadar</mark> <mark>Wireshark</mark> <mark>Zeek</mark> <mark>Arkime</mark> <mark>Security Onion</mark>
 
@@ -228,23 +226,23 @@ content:
   - title: Certifications
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Engineer Information Security
         caption : 2024.09 - 
-      - layout: top-middle
+      - layout: left
         title: Big-Data Analysis Engineer
         caption : 2023.07 -
-      - layout: top-middle
+      - layout: left
         title: Engineer Information Processing
         caption : 2018.11 -
     content_ko:
-      - layout: top-middle
+      - layout: left
         title: 정보보안기사
         caption : 2024.09 - 
-      - layout: top-middle
+      - layout: left
         title: 빅데이터분석기사
         caption : 2023.07 -
-      - layout: top-middle
+      - layout: left
         title: 정보처리기사
         caption : 2018.11 -    
 
