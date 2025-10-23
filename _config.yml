@@ -58,13 +58,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Jason Seo. I'm a cybersecurity engineer with 7 years of experience, specializing in both offensive and defensive operations. Throughout my career, I've analyzed 50+ malware samples, detected 20+ security breaches at early stages, and designed 25 threat hunting scenarios that catch sophisticated threats. Concurrently, I pursued a Ph.D. program, strengthening my research capabilities. I address every challenge with enthusiasm, with a particular interest in threat hunting and continuously study to adapt and excel in diverse environments. Beyond personal growth, I value sharing knowledge with colleagues and take pride in cooperating effectively within any team.
 about_content_ko: | 
-  <div style="padding-top: 40px;">
   위협이 사고로 이어지기 전에 먼저 찾아내는 사이버보안 엔지니어 서준우입니다.
   
   공격과 방어 양측의 관점을 모두 경험하며, 정교한 탐지 시나리오를 설계하고 20건 이상의 침해 시도를 조기에 대응했습니다.
   
   기술적 깊이와 현장 경험을 바탕으로, 조직의 보안 수준을 강화하는 데 집중하고 있습니다.
-  </div>
 
 content:
   - title: Professional Experience
@@ -215,7 +213,7 @@ content:
 
           I was challenged to apply my knowledge to real-world cyber threats and security issues by participating in hands-on projects and research opportunities, and I developed my problem-solving and critical thinking skills by collaborating with my peers.
 
-    content_ko: |
+    content_ko: 
       - layout: left
         title: 고려대학교
         sub_title: 정보보안학과 박사과정 수료
